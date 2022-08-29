@@ -8,7 +8,4 @@
     <body>
     <h1>Redirecionando ao site CDJIEF em 5 segundos...</h1>
     </body>
-    <body>
-    <h1>https://cdjief.webnode.com</h1>
-    </body>
 </html>
