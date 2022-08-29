@@ -5,6 +5,6 @@
     <body>
         <h1>CDJIEF-principal</h1>
         
-        <h2>Redirecionando ao site CDJIEF em 5 segundos...</h2>
+        <h1>Redirecionando ao site CDJIEF em 5 segundos...</h1>
     </body>
 </html>
