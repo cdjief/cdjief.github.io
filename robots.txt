@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: http://cdjief.github.io/sitemap.xml
